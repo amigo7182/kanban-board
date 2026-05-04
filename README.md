@@ -151,4 +151,4 @@ Browser
 
 ## API Reference
 
-See [`backend/API.md`](backend/API.md) for the full API design document including all endpoints, request/response shapes, error codes, and how the frontend connects to the backend.
+See [`API.md`](API.md) for the full API design document including all endpoints, request/response shapes, error codes, and how the frontend connects to the backend.
