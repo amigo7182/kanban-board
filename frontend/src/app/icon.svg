@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Warm dark background -->
+  <rect width="32" height="32" rx="6" fill="#171210"/>
+
+  <!-- Column backgrounds -->
+  <rect x="3"  y="5" width="8" height="22" rx="2" fill="#252120"/>
+  <rect x="13" y="5" width="8" height="22" rx="2" fill="#252120"/>
+  <rect x="23" y="5" width="6" height="22" rx="2" fill="#252120"/>
+
+  <!-- To Do column — brown cards -->
+  <rect x="4"  y="7"  width="6" height="4" rx="1" fill="#8B7355"/>
+  <rect x="4"  y="13" width="6" height="4" rx="1" fill="#8B7355" fill-opacity="0.45"/>
+
+  <!-- In Progress column — olive green cards -->
+  <rect x="14" y="7"  width="6" height="4" rx="1" fill="#6B8E23"/>
+  <rect x="14" y="13" width="6" height="4" rx="1" fill="#6B8E23" fill-opacity="0.55"/>
+  <rect x="14" y="19" width="6" height="4" rx="1" fill="#6B8E23" fill-opacity="0.25"/>
+
+  <!-- Done column — single completed card -->
+  <rect x="24" y="7"  width="4" height="4" rx="1" fill="#556B2F"/>
+</svg>
